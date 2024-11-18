@@ -1,0 +1,31 @@
+# Ignora diretórios gerados por ferramentas de build
+build/
+dist/
+
+# Ignora arquivos de cache e logs
+.cache/
+logs/
+
+# Ignora arquivos de configuração de editores
+.vscode/
+.idea/
+
+# Ignora arquivos temporários
+*.swp
+*~
+
+# Ignora arquivos de bancos de dados
+*.db
+*.sqlite
+
+# Ignora arquivos de testes
+tests/
+
+
+# Ignora arquivos de dependências
+node_modules/
+venv/
+package-lock.json
+
+# Ignora arquivos de documentação gerada automaticamente
+docs/
