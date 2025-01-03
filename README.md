@@ -1,4 +1,4 @@
-# Projeto de Comentários - Challenge 7 (Programa de Estágio CI&T 2025 | Next Gen AI Edition)
+# Projeto de Comentários - Challenge 7 (Programa de Estágio CI&T 2024 | Next Gen AI Edition)
 
 Este projeto foi desenvolvido como parte do processo seletivo para o programa de estágio CI&T Next Gen AI Edition. Ele consiste em uma API desenvolvida em Node.js usando o framework Express, com o objetivo de listar comentários em formato de árvore para posts específicos.
 
